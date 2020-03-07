@@ -8,4 +8,7 @@ Creating a new branch is quick and simple.
 
 add merge
 
-master has fixed issue101.
+
+need resolve issue101
+
+
